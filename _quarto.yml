@@ -2,22 +2,26 @@ project:
   type: book
 
 book:
-  title: "Proyecto RL"
-  author: "Norah Jones"
+  title: "Proyecto Reinforcement Learning"
+  author: "José Ítalo Sánchez Bermúdez"
   date: "26/9/2024"
   chapters:
     - index.qmd
     - intro.qmd
-    - summary.qmd
+    - formulacion.qmd
+    - modelo.qmd
+    - descripcion.qmd
+    - justificacion.qmd
     - references.qmd
 
 bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme: lux
   pdf:
     documentclass: scrreprt
+
 
 
 
