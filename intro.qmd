@@ -1,1 +1,2 @@
 # Introducción
+El desarrollo de nuevas herramientas matemáticas 
